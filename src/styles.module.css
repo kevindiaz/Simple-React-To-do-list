@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+.mytodos {
+    display: block;
+}
+.container {
+    padding: 20px;
+}
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+.mark {
+    margin: 0 0 0 7px;
+}
+.MuiButton-containedPrimary {
+    margin:5px!important;
+}
